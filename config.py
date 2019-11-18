@@ -1,16 +1,21 @@
 Test = {
-  "serverpath": "//is-s1469/Share/BMJ",
-  "dbserver": "integra-net4",
-  "Database": "ICE_Journal",
-  "username": "AppICEuser",
-  "password": "Sp33d",
-  "Sourcemail": "wms@integra.co.in",
-  "emailpassword": "G@mbl!ng#1",
-  "emailhost" : "smtp.office365.com",
+  "serverpath": "YOUR_SERVER_PATH",
+  "dbserver": "YOUR_DB_SERVER-NAME",
+  "Database": "YOUR_DB_NAME",
+  "username": "DB_USER_NAME",
+  "password": "DB_PASSWORD",
+  "Sourcemail": "MAIL_USER_NAME",
+  "emailpassword": "MAIL_PASSWORD",
+  "emailhost" : "MAIL_SERVER((i.e)smtp.office365.com)",
   
 }
 Live = {
- "serverpath": "//integrafs5/BMJ/live",
-  "dbserver": "Mustang",
-  "username": 1964
+ "serverpath": "YOUR_SERVER_PATH",
+  "dbserver": "YOUR_DB_SERVER-NAME",
+  "Database": "YOUR_DB_NAME",
+  "username": "DB_USER_NAME",
+  "password": "DB_PASSWORD",
+  "Sourcemail": "MAIL_USER_NAME",
+  "emailpassword": "MAIL_PASSWORD",
+  "emailhost" : "MAIL_SERVER((i.e)smtp.office365.com)",
 }
